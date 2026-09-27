@@ -1,0 +1,6 @@
+{
+  "name": "AURORA-FIT | برند ورزشی آینده‌نگر",
+  "description": "تجربه سینمایی و تکنولوژیک ورزش، بدنسازی و تناسب اندام آینده‌نگر با حلقه انرژی آرورا و برنامه‌های پیشرفته تمرینی.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
